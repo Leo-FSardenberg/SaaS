@@ -1,0 +1,4 @@
+{
+    "extends": "@saasr/tsconfig/library.json",
+    "include": ["src/**/*"]
+}
